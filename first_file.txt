@@ -1,0 +1,4 @@
+Hola, estamos editando con gedit
+
+
+This is my first commit file
